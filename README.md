@@ -4,6 +4,10 @@ My first repository
   <head>
   </head>
   <body> 
-    <h1> My Favorite List <h1>
+    <title> My Favorite List <title>
+      <li> itazura na kiss <li>
+      <li> 
+        
       </body>
+</html>
       
